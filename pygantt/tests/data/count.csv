@@ -1,0 +1,12 @@
+Task,start,end,color,completion
+Acclimation,0,6,tab:green,100
+Implantation,7,7,tab:red,100
+Recovery,8,22,tab:cyan,0
+fMRI,23,23,tab:blue,100
+fMRI,37,37,tab:blue,100
+fMRI,51,51,tab:blue,100
+fMRI,65,65,tab:blue,100
+fMRI,79,79,tab:blue,100
+IV Drug Administration,37,37,tab:purple,100
+DW Drug Administration,38,65,tab:pink,100
+Euthanasia and perfusion,79,79,black,100

@@ -1,0 +1,12 @@
+Task,start,end,color,completion
+Acclimation,2022-01-07,2022-01-14,tab:green,100
+Implantation,2022-01-15,2022-01-15,tab:red,100
+Recovery,2022-01-16,2022-01-30,tab:cyan,0
+fMRI,2022-01-31,2022-01-31,tab:blue,100
+fMRI,2022-02-14,2022-02-14,tab:blue,100
+fMRI,2022-03-01,2022-03-01,tab:blue,0
+fMRI,2022-03-14,2022-03-14,tab:blue,0
+fMRI,2022-03-28,2022-03-28,tab:blue,0
+IV Drug Administration,2022-02-14,2022-02-14,tab:purple,100
+DW Drug Administration,2022-02-15,2022-03-14,tab:pink,45
+Euthanasia and perfusion,2022-03-28,2022-03-28,black,0
