@@ -38,6 +38,9 @@ image*.png
 *.nii
 *.dcm
 
+# vim
+.*.swp
+
 #geany
 geany_run_script.sh
 
