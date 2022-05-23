@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
-packages = find_packages(exclude=('pygantt.tests*'))
+packages = find_packages(exclude=('pygantt.tests*',))
 
 setup(
     name="pygantt",
     version="9999",
-    description = " Simple Gantt Charts in Python ",
+    description = "Simple Gantt Charts in Python",
     author = "Horea Christian",
     author_email = "chr@chymera.eu",
     url = "https://github.com/TheChymera/pygantt",
